@@ -1,6 +1,6 @@
 # 📊 Sales Performance & Revenue Intelligence
 
-> End-to-end business analytics project using Python, SQL, Excel, and Power BI / Tableau — analyzing 10,000+ sales transactions to uncover revenue trends, regional performance, and customer segments.
+> End-to-end business analytics project using Python, SQL, Excel, and Power BI  — analyzing 10,000+ sales transactions to uncover revenue trends, regional performance, and customer segments.
 
 ---
 
