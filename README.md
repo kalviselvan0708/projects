@@ -107,7 +107,7 @@ Generated using `data/generate_data.py` — fully reproducible with a fixed rand
 
 **[Your Name]**
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/kalviselvan08)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [github.com/yourusername](https://github.com/kalviselvan0708/projects)
 - Email: kalviselvan0708@gmail.com
 
 ---
