@@ -9,19 +9,19 @@
 ```
 sales-analysis/
 ├── data/
-│   ├── generate_data.py          # Synthetic data generator
-│   └── sample_sales_data.csv     # 9,994 rows of sales data (2021–2024)
+│   ├── generate_data.py          
+│   └── sample_sales_data.csv     
 ├── sql/
-│   └── queries.sql               # 12 business SQL queries
+│   └── queries.sql               
 ├── dashboard/
-│   └── DASHBOARD_GUIDE.md        # Power BI & Tableau setup instructions
+│   └── DASHBOARD_GUIDE.md        
 ├── outputs/
-│   ├── 01_revenue_dashboard.png  # Main KPI dashboard
-│   ├── 02_regional_analysis.png  # Regional breakdown
-│   ├── 03_discount_and_growth.png# Discount impact + YoY growth
-│   ├── 04_rfm_segmentation.png   # Customer segmentation
-│   └── sales_summary_report.xlsx # Multi-sheet Excel report
-├── analysis.py                   # Main Python analysis script
+│   ├── 01_revenue_dashboard.png  
+│   ├── 02_regional_analysis.png  
+│   ├── 03_discount_and_growth.png
+│   ├── 04_rfm_segmentation.png   
+│   └── sales_summary_report.xlsx 
+├── analysis.py                   
 ├── requirements.txt
 └── README.md
 ```
