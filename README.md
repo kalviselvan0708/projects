@@ -99,15 +99,12 @@ See `dashboard/DASHBOARD_GUIDE.md` for step-by-step setup instructions.
 ## 📁 Dataset
 
 Synthetic data modelled after the [Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
-Generated using `data/generate_data.py` — fully reproducible with a fixed random seed.
-
----
-
+Generated using `data/generate_data.py` — fully reproducible with a fixed random s
 ## 👤 Author
 
-**[Your Name]**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/kalviselvan08)
-- GitHub: [github.com/yourusername](https://github.com/kalviselvan0708/projects)
+Kalviselvan R
+- LinkedIn: (https://linkedin.com/in/kalviselvan08)
+- GitHub: (https://github.com/kalviselvan0708/projects)
 - Email: kalviselvan0708@gmail.com
 
 ---
